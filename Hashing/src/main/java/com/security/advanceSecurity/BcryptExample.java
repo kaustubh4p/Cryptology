@@ -12,7 +12,7 @@ import com.security.md5.SaltedMD5Example;
 /**
  * @author KaustubhWaghmare
  * 08-Nov-2018
- * Bcrypt example with salt
+ * Bcrypt example
  *
  */
 public class BcryptExample {

@@ -10,7 +10,7 @@ import com.security.md5.SaltedMD5Example;
  * @author KaustubhWaghmare
  * 08-Nov-2018
  * 
- * Scrypt example with salt
+ * Scrypt example
  */
 public class Scrypt {
 	
