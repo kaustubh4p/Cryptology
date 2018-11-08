@@ -3,16 +3,15 @@ package com.security.advanceSecurity;
 
 
 import java.security.NoSuchAlgorithmException;
+
 import org.mindrot.jbcrypt.BCrypt;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.security.md5.SaltedMD5Example;
-
 /**
  * @author KaustubhWaghmare
  * 08-Nov-2018
- * Bcrypt example
+ * Bcrypt example with SALT
  *
  */
 public class BcryptExample {
